@@ -15,5 +15,3 @@ I will built in a way that guarantees the fair exchange of the answers and allow
 ## Documents Description
 
 - `RockPaperScissors.sol`: The codes of this smart contract in Solidity
-
-Link to the presentation of this project: https://youtu.be/pqCrdl2A1IA
