@@ -14,4 +14,4 @@ I will built in a way that guarantees the fair exchange of the answers and allow
 
 ## Documents Description
 
-- `RockPaperScissors.sol`: The codes of this smart contract in Solidity
+- `RockPaperScissors.sol`: The codes of this smart contract is in Solidity
